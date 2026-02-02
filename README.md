@@ -42,8 +42,8 @@ I am a Backend-focused Developer currently in a high-intensity sprint to master 
 
 ## 🤝 Let's Connect
 - 📧 Email Address- sunilchavare1665@gmail.com
-- 💼 LinkedIn-
-- 🐦 Twitter/X-
+- 💼 LinkedIn-https://www.linkedin.com/in/sunil-chavare
+
 
 
 ---
