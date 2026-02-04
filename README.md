@@ -46,6 +46,7 @@ I am a Backend Developer starting from scratch in 2026. I specialize in building
 - ## 🤝 Let's Connect
 - 📧 Email Address- sunilchavare1665@gmail.com
 - 💼 LinkedIn-https://www.linkedin.com/in/sunil-chavare
+- [![X (formerly Twitter)](https://img.shields.io)](https://x.com/sunilchavare16)
 
 
 ---
