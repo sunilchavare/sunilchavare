@@ -1,19 +1,24 @@
-# Hi there, I'm Sunil 👋 
-I’m starting my journey as a backend developer, currently learning JavaScript and Node.js by building real projects and contributing to open source.
+Hi 👋 I'm learning software development with a focus on strong fundamentals.
 
-Right now, my focus is on:
-- Writing clean, understandable backend code
-- Learning how real systems work (APIs, async code, tooling)
-- Becoming a consistent open-source contributor
-- Preparing for Google Summer of Code 2026
+🔧 Development
+- JavaScript & Node.js (backend-first full stack)
+- Building projects and pushing code regularly
 
-I believe in learning by doing, so this GitHub will track my progress from beginner to professional — projects, experiments, mistakes, and improvements included.
+🧠 Problem Solving
+- Data Structures & Algorithms in Python
+- Practicing consistently on coding platforms
 
-Long term, I want to work with remote-first teams, build reliable backend systems, and eventually create my own products as a founder.
+🎯 Current Focus
+- Finishing real projects
+- Improving code quality and clarity
+- Learning how real systems work end-to-end
+  
+-I believe in learning by doing, so this GitHub will track my progress from beginner to professional — projects, experiments, mistakes, and improvements included.
+- Long term, I want to work with remote-first teams, build reliable full-stack systems, and eventually create my own products as a founder.
+
+This profile is a work in progress.
 
 ---
-This is the start — everything here will evolve.
-
 ### 💡 The Mindset
 "Discipline is the bridge between goals and accomplishment. Building 1% better every day."
 
