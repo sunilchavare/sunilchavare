@@ -1,14 +1,17 @@
-Hi 👋 I'm learning software development with a focus on strong fundamentals.
+# Hi, I’m Sunil Chavare 👋
+### MERN Learner | Software Application Developer
 
-🔧 Development
+I'm learning software development with a focus on strong fundamentals.
+
+### 🔧 Development
 - JavaScript & Node.js (backend-first full stack)
 - Building projects and pushing code regularly
 
-🧠 Problem Solving
+### 🧠 Problem Solving
 - Data Structures & Algorithms in Python
 - Practicing consistently on coding platforms
 
-🎯 Current Focus
+### 🎯 Current Focus
 - Finishing real projects
 - Improving code quality and clarity
 - Learning how real systems work end-to-end
@@ -23,10 +26,10 @@ This profile is a work in progress.
 "Discipline is the bridge between goals and accomplishment. Building 1% better every day."
 
 ---
-- ## 🤝 Let's Connect
-- 📧 Email Address- sunilchavare1665@gmail.com
-- 💼 LinkedIn-https://www.linkedin.com/in/sunil-chavare
-- [![X (formerly Twitter)](https://img.shields.io)](https://x.com/sunilchavare16)
+
+## 🤝 Let's Connect
+
+-  **📧 Email:** sunilchavare1665@gmail.com
+- **💼 LinkedIn:** https://www.linkedin.com/in/sunil-chavare
+
 ---
-
-
