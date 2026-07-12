@@ -29,7 +29,7 @@ I am a final-year Computer Science student tracking toward becoming a high-impac
 
 *Currently building a multi-service full-stack architecture to master concurrent data handling, relational data constraints, and environment reproducibility with Docker.*
 
-- 📁 Review my daily code logs, architecture decisions, and learning progress inside my `til` repository!
+- 📁 Review my daily code logs, architecture decisions, and learning progress inside my [`Today I Learned`](https://github.com/sunilchavare/Today-I-Learned) repository!
 
 ---
 
