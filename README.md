@@ -1,29 +1,35 @@
-# Hi there, I'm a Backend Software Engineer! 👋
+# Hi there, I'm Sunil 👋
 
-I am an execution-focused developer dedicated to mastering backend systems, asynchronous architectures, and optimal data structures. I build clean, decoupled, production-grade applications.
-
----
-
-## 🛠️ Current Focus & Projects
-
-### 🧠 [DocuMind](https://github.com/sunilchavare/documind) — AI-Powered Document RAG Engine
-A highly scalable SaaS backend that enables intelligent semantic search and chat interactions over massive documents.
-- **Tech Stack:** Asynchronous FastAPI, PostgreSQL, SQLAlchemy Async Engine, Qdrant/ChromaDB, Python 3.10+, WSL Linux.
-- **Key Architecture:** Fully decoupled router layers, async session lifecycles, and high-performance vector search processing.
-
-### ⚡ [DSA Grind](https://github.com/sunilchavare/dsa-grind) — Algorithmic Mastery
-My dedicated laboratory for algorithmic problem solving, tracking my progression through the rigorous NeetCode 150 curriculum.
-- **Focus:** Data Structures, Big-O Optimization, and interview readiness.
-- **Rule:** Every solution is written locally, verified line-by-line, and permanently logged with precise Time and Space complexities.
+I am a final-year Computer Science student tracking toward becoming a high-impact, full-stack software engineer with a heavy emphasis on robust backend architecture. My goal over the next 6 months is to transition directly into a fast-paced startup or remote engineering role by shipping production-grade, containerized code independently.
 
 ---
 
-## 🧰 Tech Stack & Ecosystem
 
-- **Languages:** Python, SQL
-- **Frameworks & Core Tools:** FastAPI, Uvicorn, Pydantic
-- **Databases & Storage:** PostgreSQL, SQLAlchemy (Async Management), Vector Databases
-- **Environments & Workflow:** Ubuntu Linux (WSL), VS Code, Git/GitHub, Docker Core
+### 🛠️ Production Tech Stack & Competencies
+
+| Domain | Technologies & Systems |
+| :--- | :--- |
+| **Backend & APIs** | FastAPI, Node.js, Express.js |
+| **DevOps & Containers** | Docker, Docker Compose, Linux (WSL), Git/GitHub |
+| **Databases** | Relational Databases (SQL), PostgreSQL, SQLite |
+| **Frontend** | React, Modern JavaScript (ES6+), HTML5, CSS3 (Flexbox/Grid) |
+| **Core Engineering** | Data Structures & Algorithms (DSA), Computer Networking (HTTP/TCP), System Design Foundations |
+
+---
+
+### 📈 Proof of Work & Daily Commitments
+
+- 🧠 **Algorithmic Efficiency:** Solving DSA patterns daily to train my brain for optimal time ($O(N)$) and space complexity. Tracked via automated platform pushes.
+- 🏗️ **Autonomous Building:** Architecting full-stack systems with clean, type-safe APIs, containerized database lifecycles (`docker-compose`), and asynchronous data boundaries.
+- 📝 **The Daily Engineering Log:** Documenting raw technical breakdowns, database models, and networking insights inside my `Today-I-Learned` (TIL) repository.
+
+---
+
+### 🚀 What I'm Shipping Right Now
+
+*Currently building a multi-service full-stack architecture to master concurrent data handling, relational data constraints, and environment reproducibility with Docker.*
+
+- 📁 Review my daily code logs, architecture decisions, and learning progress inside my `til` repository!
 
 ---
 
