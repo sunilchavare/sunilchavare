@@ -27,9 +27,23 @@ I am a final-year Computer Science student tracking toward becoming a high-impac
 
 ### 🚀 What I'm Shipping Right Now
 
-*Currently building a multi-service full-stack architecture to master concurrent data handling, relational data constraints, and environment reproducibility with Docker.*
+I am actively building a sequence of production-ready full-stack projects focused on high-throughput backend architecture, distributed systems, and enterprise data pipelines.
 
-- 📁 Review my daily code logs, architecture decisions, and learning progress inside my [`Today I Learned`](https://github.com/sunilchavare/Today-I-Learned) repository!
+* **[Core API Gateway](https://github.com/sunilchavare/core-api-gateway)**  
+  *Building Now* — A secure multi-tenant backend architecture featuring strict Pydantic parsing schemas, bcrypt password hashing, JWT authorization middleware, and high-speed Redis request rate-limiting.
+
+* **Market Alert Engine**  
+  *Up Next* — An event-driven asynchronous system built on Node.js/Express and BullMQ to manage high-frequency live market data streams and automated email notifications.
+
+* **Jarvis Knowledge Backend**  
+  *Up Next* — An enterprise-grade AI RAG engine leveraging LangChain, AWS S3 object files, and pgvector spatial database extensions to process large unstructured datasets.
+
+---
+
+### 📝 Core Repositories
+* 📁 Track my raw daily code logs, system design notes, and networking breakdowns inside my dedicated [`Today-I-Learned (TIL)`](https://github.com/sunilchavare/Today-I-Learned) tracking system.
+
+
 
 ---
 
