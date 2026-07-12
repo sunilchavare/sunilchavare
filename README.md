@@ -9,21 +9,22 @@ I am a final-year Computer Science student tracking toward becoming a high-impac
 
 | Domain | Technologies & Systems |
 | :--- | :--- |
-| **Backend & APIs** | FastAPI, Node.js, Express.js |
+| **Backend & APIs** | FastAPI, Node.js, Express.js, **BullMQ** |
+| **Caching & Queues** | **Redis (In-Memory Caching, Rate-Limiting, Task Broker)** |
 | **DevOps & Containers** | Docker, Docker Compose, Linux (WSL), Git/GitHub |
 | **Databases** | Relational Databases (SQL), PostgreSQL, SQLite |
 | **Frontend** | React, Modern JavaScript (ES6+), HTML5, CSS3 (Flexbox/Grid) |
 | **Core Engineering** | Data Structures & Algorithms (DSA), Computer Networking (HTTP/TCP), System Design Foundations |
 
+
 ---
 
 ### 📈 Proof of Work & Daily Commitments
 
-- 🧠 **Algorithmic Efficiency:** Solving DSA patterns daily to train my brain for optimal time ($O(N)$) and space complexity. Tracked via automated platform pushes.
+- 🧠 **Algorithmic Efficiency:** Solving DSA patterns daily to train my brain for optimal time `O(N)` and space complexity. Tracked via automated platform pushes.
 - 🏗️ **Autonomous Building:** Architecting full-stack systems with clean, type-safe APIs, containerized database lifecycles (`docker-compose`), and asynchronous data boundaries.
-- 📝 **The Daily Engineering Log:** Documenting raw technical breakdowns, database models, and networking insights inside my `Today-I-Learned` (TIL) repository.
+- 🧪 **Test-Driven Reliability:** Writing automated unit tests using frameworks like `pytest` to guarantee database validation and system stability *before* pushing to production.
 
----
 
 ### 🚀 What I'm Shipping Right Now
 
