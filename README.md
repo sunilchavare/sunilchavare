@@ -1,56 +1,39 @@
-# Hi there, I'm Sunil 👋
+# Hi, I'm Sunil 👋
 
-I am a final-year Computer Science student tracking toward becoming a high-impact, full-stack software engineer with a heavy emphasis on robust backend architecture. My goal over the next 6 months is to transition directly into a fast-paced startup or remote engineering role by shipping production-grade, containerized code independently.
+I am a **Systems-Focused Product Engineer** with an execution-first founder mindset. I specialize in building high-throughput backend architecture, automated data pipelines, and containerized infrastructure. 
 
----
-
-
-### 🛠️ Production Tech Stack & Competencies
-
-| Domain | Technologies & Systems |
-| :--- | :--- |
-| **Backend & APIs** | FastAPI, Node.js, Express.js, **BullMQ** |
-| **Caching & Queues** | **Redis (In-Memory Caching, Rate-Limiting, Task Broker)** |
-| **DevOps & Containers** | Docker, Docker Compose, Linux (WSL), Git/GitHub |
-| **Databases** | Relational Databases (SQL), PostgreSQL, SQLite |
-| **Frontend** | React, Modern JavaScript (ES6+), HTML5, CSS3 (Flexbox/Grid) |
-| **Core Engineering** | Data Structures & Algorithms (DSA), Computer Networking (HTTP/TCP), System Design Foundations |
-
+My focus is on **first-principles engineering**: cutting through bloat to ship scalable, production-grade software that solves real operational bottlenecks.
 
 ---
 
-### 📈 Proof of Work & Daily Commitments
+### 🚀 Active Systems & Build Focus
 
-- 🧠 **Algorithmic Efficiency:** Solving DSA patterns daily to train my brain for optimal time `O(N)` and space complexity. Tracked via automated platform pushes.
-- 🏗️ **Autonomous Building:** Architecting full-stack systems with clean, type-safe APIs, containerized database lifecycles (`docker-compose`), and asynchronous data boundaries.
-- 🧪 **Test-Driven Reliability:** Writing automated unit tests using frameworks like `pytest` to guarantee database validation and system stability *before* pushing to production.
-
-
-### 🚀 What I'm Shipping Right Now
-
-I am actively building a sequence of production-ready full-stack projects focused on high-throughput backend architecture, distributed systems, and enterprise data pipelines.
-
-* **[Core API Gateway](https://github.com/sunilchavare/core-api-gateway)**  
-  *Building Now* — A secure multi-tenant backend architecture featuring strict Pydantic parsing schemas, bcrypt password hashing, JWT authorization middleware, and high-speed Redis request rate-limiting.
-
-* **Market Alert Engine**  
-  *Up Next* — An event-driven asynchronous system built on Node.js/Express and BullMQ to manage high-frequency live market data streams and automated email notifications.
-
-* **Jarvis Knowledge Backend**  
-  *Up Next* — An enterprise-grade AI RAG engine leveraging LangChain, AWS S3 object files, and pgvector spatial database extensions to process large unstructured datasets.
+* ⚙️ **[Core API Gateway](https://github.com/sunilchavare/core-api-gateway)** *(Active Build)*  
+  High-performance multi-tenant backend gateway featuring strict Pydantic parsing schemas, JWT authentication middleware, and Redis-backed sliding-window rate limiting. Fully containerized with `docker-compose`.
 
 ---
 
-### 📝 Core Repositories
-* 📁 Track my raw daily code logs, system design notes, and networking breakdowns inside my dedicated [`Today-I-Learned (TIL)`](https://github.com/sunilchavare/Today-I-Learned) tracking system.
+### 🛠️ Production Tech Stack
 
+```yaml
+Backend_Core:
+  - Language: "Python (Async/FastAPI), SQL"
+  - APIs: "RESTful, Middleware, Pydantic v2, Webhooks"
+  - Security: "JWT, OAuth2, Bcrypt Hashing"
 
+Data_&_Storage:
+  - Primary_DB: "PostgreSQL, SQLAlchemy, Alembic"
+  - Caching_Queues: "Redis (Caching, Rate Limiting)"
+
+DevOps_&_Infra:
+  - Containers: "Docker, Docker Compose"
+  - Environments: "Linux (WSL2), Git/GitHub Workflows"
 
 ---
 
 ## 📊 My Execution Philosophy
 
-> "Write it manually, optimize it ruthlessly, understand it line-by-line."
+> "Ideas are easy. Execution is the leverage. Move fast, test relentlessly, ship value."
 
 ---
 
@@ -58,3 +41,5 @@ I am actively building a sequence of production-ready full-stack projects focuse
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-chavare/)
 [![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunilchavare16)
+[![Gmail](https://shields.io)](mailto:sunilchavare07@gmail.com)
+
