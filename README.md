@@ -5,10 +5,6 @@
   <em>First-principles thinker · Reverse-engineering mindset · Building with curiosity</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunilchavare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -101,4 +97,10 @@
   <a href="https://linkedin.com/in/sunil-chavare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/sunilchavare16"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:sunilchavare07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunilchavare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
