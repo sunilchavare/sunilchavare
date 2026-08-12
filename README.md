@@ -12,6 +12,7 @@
 - 🔭 I'm currently building backend systems with **Python / FastAPI**
 - 🌱 I dig into how systems work by breaking them down to first principles
 - 🔍 I like reverse-engineering existing tools/APIs to understand design decisions
+- 🧩 First-principles thinker — I question assumptions before I trust them, then rebuild the solution from the ground up
 - ⚡ I have ADHD — my curiosity runs in a lot of directions, and I try to channel that into shipping things
 
 
