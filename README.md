@@ -39,8 +39,5 @@ DevOps_&_Infra:
 ---
 
 ## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-chavare/)
-[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunilchavare16)
-[![Gmail](https://shields.io)](mailto:sunilchavare07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-chavare/) [![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunilchavare16) [![Gmail](https://shields.io)](mailto:sunilchavare07@gmail.com)
 
