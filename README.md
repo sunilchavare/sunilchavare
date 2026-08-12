@@ -30,6 +30,7 @@ DevOps_&_Infra:
   - Environments: "Linux (WSL2), Git/GitHub Workflows"
 
 ---
+```
 
 ## 📊 My Execution Philosophy
 
