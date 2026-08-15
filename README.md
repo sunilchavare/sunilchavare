@@ -5,7 +5,7 @@
 - 🔭 I'm currently building backend systems with **Python / FastAPI**
 - 🌱 I dig into how systems work by breaking them down to first principles
 - 🔍 I like reverse-engineering existing tools/APIs to understand design decisions
-- ⚡ I have ADHD — my curiosity runs in a lot of directions, and I try to channel that into shipping things
+- 🚀 Currently deploying core-api-gateway — a production-style FastAPI gateway with JWT auth and Redis rate-limiting
 
 ---
 
