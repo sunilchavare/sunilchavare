@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Sunil👋</h1>
 
-<p align="center">
-  <em>Backend developer who likes taking things apart to understand how they actually work.</em><br>
-  <em>First-principles thinker · Reverse-engineering mindset · Building with curiosity</em>
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -13,11 +8,6 @@
 - 🌱 I dig into how systems work by breaking them down to first principles
 - 🔍 I like reverse-engineering existing tools/APIs to understand design decisions
 - ⚡ I have ADHD — my curiosity runs in a lot of directions, and I try to channel that into shipping things
-
-
-> 📊 **My Execution Philosophy**
->
-> "Ideas are easy. Execution is the leverage. Move fast, test relentlessly, ship value."
 
 ---
 
