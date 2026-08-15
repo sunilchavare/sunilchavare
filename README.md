@@ -53,7 +53,10 @@
 - Git/GitHub workflows for CI
 
 ---
+
+
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api?username=sunilchavare&show_icons=true&theme=default" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=sunilchavare" width="48%" />
@@ -61,12 +64,15 @@
 <p align="center">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api/top-langs/?username=sunilchavare&layout=compact" />
 </p>
+
 ---
+
 ### 🚀 Currently Working On
 <a href="https://github.com/sunilchavare/core-api-gateway">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api/pin/?username=sunilchavare&repo=core-api-gateway&theme=default" />
 </a>
 - 📌 More repos going public as things reach a shareable state — check back soon
+
 ---
 
 ### 🤝 Connect With Me
