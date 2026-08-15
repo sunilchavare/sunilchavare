@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Sunil👋</h1>
 
----
-
 ### 🧠 About Me
 
 - 🔭 I'm currently building backend systems with **Python / FastAPI**
