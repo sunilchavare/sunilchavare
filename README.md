@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api?username=sunilchavare&show_icons=true&theme=default" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=sunilchavare" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sunilchavare" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api/top-langs/?username=sunilchavare&layout=compact" />
