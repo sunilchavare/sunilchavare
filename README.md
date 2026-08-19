@@ -56,11 +56,20 @@
 
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api?username=sunilchavare&show_icons=true&theme=default" width="48%" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sunilchavare" />
 </p>
+
+---
+
+### 💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api/top-langs/?username=sunilchavare&layout=compact" />
 </p>
@@ -71,8 +80,6 @@
 <a href="https://github.com/sunilchavare/core-api-gateway">
   <img src="https://github-readme-stats-seven-lake-85.vercel.app/api/pin/?username=sunilchavare&repo=core-api-gateway&theme=default" />
 </a>
-
-
 - 📌 More repos going public as things reach a shareable state — check back soon
 
 ---
