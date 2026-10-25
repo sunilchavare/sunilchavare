@@ -1,6 +1,6 @@
 # Hi, I'm Sunil👋
 
-Final-year CS student ([GRADUATION YEAR]) building backend systems with **Python / FastAPI**. Looking for backend and full-stack roles.
+Final-year CS student (2027) building backend systems with **Python / FastAPI**. Looking for backend and full-stack roles.
 
 
 
