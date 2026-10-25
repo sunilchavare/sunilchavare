@@ -2,7 +2,7 @@
 
 Final-year CS student ([GRADUATION YEAR]) building backend systems with **Python / FastAPI**. Looking for backend and full-stack roles.
 
-📄 [Resume]([RESUME LINK])
+
 
 ---
 
@@ -20,9 +20,6 @@ Final-year CS student ([GRADUATION YEAR]) building backend systems with **Python
 </a>
 
 A FastAPI gateway with JWT auth middleware, bcrypt password hashing, Pydantic v2 validation and Redis-backed rate limiting.
-
-- 📈 [ONE REAL RESULT, e.g. requests/sec under load, rate-limit behavior tested, or test coverage]
-- 🔗 [LIVE DEMO OR API DOCS LINK, if deployed]
 
 ---
 
